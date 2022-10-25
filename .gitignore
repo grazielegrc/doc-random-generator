@@ -1,0 +1,7 @@
+# exclude python cache and virtual environment
+doc-random-generator/venv
+doc-random-generator/__pycache__
+doc-random-generator/*.pyc
+doc-random-generator/.idea
+__pycache__/
+.idea/
